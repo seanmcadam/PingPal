@@ -14,3 +14,5 @@ Target | latency | ave latency
 2) 
 Target | visual line of latency times
 
+For reference look at: mtr, but only presenting the target IP not all of the hops
+
